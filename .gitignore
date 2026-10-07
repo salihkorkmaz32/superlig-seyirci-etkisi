@@ -1,0 +1,9 @@
+# Sanal ortam (requirements.txt ile yeniden kurulur)
+.venv/
+
+# Python'ın otomatik oluşturduğu dosyalar
+__pycache__/
+*.pyc
+
+# VS Code ayarları
+.vscode/
